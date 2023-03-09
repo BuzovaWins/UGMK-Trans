@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/ClosedList/.vs/ClosedList/v16
+/ClosedList/obj/Debug
+/ClosedList/bin/Debug
+/ClosedList/packages
+/TestClosedList/bin/Debug
+/TestClosedList/obj/Debug
